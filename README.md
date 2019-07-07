@@ -1,4 +1,4 @@
-#title MSA 2019
+# MSA 2019
 
 SimonSays web application, inspired by the actual Simon says childs game of imitation
 
